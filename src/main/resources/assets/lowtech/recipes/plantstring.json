@@ -1,0 +1,19 @@
+{
+  "group": "lowtech",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lowtech:plantfibers"
+    },
+    {
+      "item": "lowtech:plantfibers"
+    },
+    {
+      "item": "lowtech:plantfibers"
+    }
+  ],
+  "result": {
+    "item": "lowtech:makeshiftstring",
+    "count": 1
+  }
+}

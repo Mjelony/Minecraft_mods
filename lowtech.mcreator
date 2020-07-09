@@ -1,0 +1,72 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "PlantFibers",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MakeshiftString",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlantString",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DryGrass",
+      "type": "plant",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LowTech",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tablowtech": "Low Tech",
+      "tile.drygrass.name": "Dry Grass",
+      "item.plantfibers.name": "Plant Fibers",
+      "item.makeshiftstring.name": "Makeshift String"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "lowtech",
+    "modName": "Low Tech",
+    "version": "1.0.0",
+    "author": "K, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "modElementsPackage": "net.mcreator.lowtech",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}
